@@ -2,15 +2,18 @@ A big ass list of resources about anything!
 =====================
 Find me at http://roachhd.github.io/big-ass-resource-list/
 
-#Playground at http://play.roachhaus.com
-##Bootstrapping themes and templates 
-###News  http://play.roachhaus.com/bootstrapping/news
-###Story http://play.roachhaus.com/bootstrapping/story
-###Tools http://play.roachhaus.com/bootstrapping/tools
-###GreenLanding http://play.roachhaus.com/bootstrapping/GreenLanding
-###PurpleLanding http://play.roachhaus.com/bootstrapping
-###Pratt http://play.roachhaus.com/bootstrapping/Pratt
-###BootBundle http://play.roachhaus.com/bootstrapping/BootBundle
+shrink pings [ting png](https://tinypng.com)
+
+
+Playground at http://play.roachhaus.com
+Bootstrapping themes and templates 
+News  http://play.roachhaus.com/bootstrapping/news
+Story http://play.roachhaus.com/bootstrapping/story
+Tools http://play.roachhaus.com/bootstrapping/tools
+GreenLanding http://play.roachhaus.com/bootstrapping/GreenLanding
+PurpleLanding http://play.roachhaus.com/bootstrapping)
+Pratt http://play.roachhaus.com/bootstrapping/Pratt)
+BootBundle (http://play.roachhaus.com/bootstrapping/BootBundle)
 
 
 #Games
