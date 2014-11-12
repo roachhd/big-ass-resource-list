@@ -1,9 +1,6 @@
 A big ass list of resources about anything!
 =====================
 
-
-Find me at http://roachhd.github.io/big-ass-resource-list/
-
 ######Icon, Icon Fonts, Web Fonts
 
 - [FlatIcons](http://www.flaticon.com/packs/)
