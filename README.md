@@ -1,7 +1,15 @@
 A big ass list of resources about anything!
 =====================
+This is an awesome this of the greatest resources on the web - it's bigger than your mamas arse 😉
+Fork it and add your bits.
 
-#####Code fucking anywhere! 
+######Emoji code:
+
+ 🆓 = free
+ ❤ = my fave
+ 💰 = paid
+
+#####Best code editors so you can hack f#@king anywhere! 
 _Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools_
 
 ######Cool for sudden burst of inspiration, quick demos, storing code references, testing bits
@@ -14,7 +22,7 @@ _And these are the big boys for serious shit when your out and about_
 - [Visual Studio Online]()
 - [Telerik Platform]() ❤️❤️❤️ *this Rocks! Let's me submit my apps to iTunesConnect even on a WINDOWS PC _Fuck Yeah!_*
 - [Code Anywhere]() this is pretty good, but seems a little buggy
-
+- [](http://www.blah.com/)
 _Markdown and just plain old writing shit_
 - [Markable](http://markable.in/) ❤️ *nice and easy to use, works even on my Windows Phone, and that is an achievement 🏆
 - [Dillenger.io](http://Dillinger.io) *nice, but no flash on phone. Copy/select is dodgy on iPad.*
@@ -27,7 +35,8 @@ _Markdown and just plain old writing shit_
 #####Icon, Icon Fonts, Web Fonts
 - [Font Awesome](http://fontawesome) ❤️ you already know!
 - [Gylphicons]()
-- []()
+- [Icons8](http://icons8.com) 
+- [Streamline Icons](http://www.streamlineicons.com/)💰🆓 
 - [FlatIcons](http://www.flaticon.com/packs/)
 - [Google Web Fonts]()
 - [Adobe Edge Web Type]()
