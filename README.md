@@ -1,4 +1,4 @@
-A big ass list of resources!
+Big Ass Resosource List!
 =====================
 This is an awesome this of the greatest resources on the web - it's bigger than your mamas arse 😉
 Fork it and add your bits.
@@ -36,35 +36,11 @@ _And these are the big boys for serious shit when your out and about_
 
 ---
 
-##Design Resources
 
-#####Icon, Icon Fonts, Web Fonts
-- [Font Awesome](http://fontawesome) ❤️ you already know!
-- [Gylphicons]()
-- [Icons8](http://icons8.com) 
-- [Streamline Icons](http://www.streamlineicons.com/)💰🆓 
-- [FlatIcons](http://www.flaticon.com/packs/)
-- [Google Web Fonts]()
-- [Adobe Edge Web Type]()
-- [Typekit]()
-- [Ico Moon](http://icomoon.com) *roll your own icon font*
-- [Minicons](http://www.webalys.com/minicons/index.php) 💰🆓 
+#Javascript Resources.
 
-##Color:
-[Adobe Color](http://color.adobe.com) ❤️
-[Color Lovers](http://colorlovers.com)
+#### Libraries
 
-If those sites look a bit overwhelming with the millions of pallets, then check out some of these sites below. They make it a bit easier but not giving you too many choices. It's easy to be dazzled by all the pretty colours.
-
-- [16-Bit Pallets]()
-- [more]()
-- [more]()
-
-
----
-#Javascript Specific Resources.
-
-##Libraries
 - [jQuery](http://jquery.com) - The de-facto library for the modern age. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 - [Backbone](http://backbonejs.org/) - Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
 - [AngularJS](http://angularjs.org/) - Conventions based MVC framework for HTML5 apps.
@@ -88,10 +64,84 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 - [Grunt](http://gruntjs.com/) - Javascript Task Runner
 
 ## Guides
-- [Javascript](http://gitbook.io/roachhd/JavaScript) A great book for beginners to advanced. Formats: ePub, mobi, PDF, online
 - [Jasmine](http://pivotal.github.io/jasmine/) - Jasmine is a behavior-driven development framework for testing JavaScript code.
 - [Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted.html) - Extensions allow you to add functionality to Chrome without diving deeply into native code. You can create new extensions for Chrome with those core technologies that you're already familiar with from web development: HTML, CSS, and JavaScript.
 - [Backbone Tutorials](http://backbonetutorials.com/) - Backbone Tutorials is a collection of tutorials written by Thomas Davis.
+
+
+---
+
+#Ruby Resources - Gems
+
+## Gems
+- [Bundler](http://bundler.io/) - Bundler maintains a consistent environment for ruby applications. It tracks an application's code and the rubygems it needs to run, so that an application will always have the exact gems (and versions) that it needs to run.
+- [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support
+- [Thin](http://code.macournoyer.com/thin/) - Very fast and lightweight Ruby web server
+- [Unicorn](https://github.com/defunkt/unicorn) - Unicorn is an HTTP server for Rack applications designed to only serve fast clients on low-latency, high-bandwidth connections and take advantage of features in Unix/Unix-like kernels.
+- [SimpleCov](https://github.com/colszowka/simplecov) - SimpleCov is a code coverage analysis tool for Ruby 1.9.
+- [Zeus](https://github.com/burke/zeus) - Zeus preloads your Rails app so that your normal development tasks such as console, server, generate, and specs/tests take less than one second.
+- [factory_girl](https://github.com/thoughtbot/factory_girl) - factory_girl is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
+- [Sass](https://github.com/rails/sass-rails) - This gem provides official integration for Ruby on Rails projects with the Sass stylesheet language.
+- [ActiveAdmin](http://www.activeadmin.info/) - Ruby on Rails plugin for generating administration style interfaces
+- [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database based asynchronous priority queue system -- Extracted from Shopify
+- [Resque](https://github.com/resque/resque) - Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
+
+## Tools and Services
+- [Heroku](https://www.heroku.com/) - Hosting provider for Ruby, Node.js, Clojure, Java, Python and Scala
+- [Forward](https://forwardhq.com/) - Forward your localhost to a publicly-accessible url
+- [Mandrill](https://mandrillapp.com/) - Transactional email based on MailChimp infrastructure
+- [Jenkins](http://jenkins-ci.org/) - Open source continuous integration server
+
+
+## Guides
+- [Ruby on Rails Guides](http://guides.rubyonrails.org/) - These guides are designed to make you immediately productive with Rails, and to help you understand how all of the pieces fit together.
+- [Better Specs](http://betterspecs.org/) - Collection of "best practices" that other developers learn through years of experience.
+
+
+---
+
+#Python Resources
+
+## Packages
+- [lxml](http://lxml.de/) - Pythonic binding for the C libraries libxml2 and libxslt. 
+- [boto](http://boto.readthedocs.org/en/latest/) - Python interface to Amazon Web Services
+- [Django](https://www.djangoproject.com/) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+- [Fabric](http://docs.fabfile.org/en/1.8/) - Library and command-line tool for streamlining the use of SSH for application deployment or systems administration task.
+- [PyMongo](http://api.mongodb.org/python/current/) - Tools for working with MongoDB, and is the recommended way to work with MongoDB from Python.
+- [Celery](https://pypi.python.org/pypi/celery/3.0.19) - Task queue to distribute work across threads or machines.
+- [pytz](https://pypi.python.org/pypi/pytz/2013b) - pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher.
+
+## Guides
+- [The Django Book](http://www.djangobook.com/en/2.0/index.html) - A free book about the Django Web framework for the Python programming language.
+- [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/) - This opinionated guide exists to provide both novice and expert Python developers a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.
+
+
+---
+
+
+#Design Resources
+
+##Icon, Icon Fonts, Web Fonts
+- [Font Awesome](http://fontawesome) ❤️ you already know!
+- [Gylphicons]()
+- [Icons8](http://icons8.com) ❤️ 💰 🆓
+- [Streamline Icons](http://www.streamlineicons.com/)💰 🆓 
+- [FlatIcons](http://www.flaticon.com/packs/)
+- [Google Web Fonts]()
+- [Adobe Edge Web Type]()
+- [Typekit]()
+- [Ico Moon](http://icomoon.com) *roll your own icon font*
+- [Minicons](http://www.webalys.com/minicons/index.php) 💰 🆓 
+
+##Color:
+[Adobe Color](http://color.adobe.com) ❤️
+[Color Lovers](http://colorlovers.com) 
+
+If those sites look a bit overwhelming with the millions of pallets, then check out some of these sites below. They make it a bit easier but not giving you too many choices. It's easy to be dazzled by all the pretty colours.
+
+- [16-Bit Pallets]()
+- [more]()
+- [more]()
 
 
 ---
@@ -115,3 +165,8 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 - PurpleLanding http://play.roachhaus.com/bootstrapping)
 - Pratt http://play.roachhaus.com/bootstrapping/Pratt)
 - BootBundle (http://play.roachhaus.com/bootstrapping/BootBundle)
+
+
+--- 
+
+
