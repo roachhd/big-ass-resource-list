@@ -5,9 +5,11 @@ Fork it and add your bits.
 
 ######Emoji Key:
 
-------------- | ------------- | ------------ |
+
 ❤ = my fave   |   🆓 = free   |   💰 = paid. 
-------------- | ------------- | ------------ |
+------------- | ------------- | ------------ 
+
+
 
 #####Best code editors so you can hack f#@king anywhere! 
 _Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools_
