@@ -5,9 +5,7 @@ Fork it and add your bits.
 
 ######Emoji code:
 
- 🆓 = free
- ❤ = my fave
- 💰 = paid
+❤ = my fave  |  🆓 = free  |  💰 = paid
 
 #####Best code editors so you can hack f#@king anywhere! 
 _Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools_
@@ -26,7 +24,6 @@ _And these are the big boys for serious shit when your out and about_
 _Markdown and just plain old writing shit_
 - [Markable](http://markable.in/) ❤️ *nice and easy to use, works even on my Windows Phone, and that is an achievement 🏆
 - [Dillenger.io](http://Dillinger.io) *nice, but no flash on phone. Copy/select is dodgy on iPad.*
-- 
 
 
 ---
@@ -42,6 +39,7 @@ _Markdown and just plain old writing shit_
 - [Adobe Edge Web Type]()
 - [Typekit]()
 - [Ico Moon](http://icomoon.com) *roll your own icon font*
+- [Minicons](http://www.webalys.com/minicons/index.php) 💰🆓 
 
 
 ---
