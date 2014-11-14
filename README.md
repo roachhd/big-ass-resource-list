@@ -11,21 +11,25 @@ Fork it and add your bits.
 
 
 
-#####Best code editors so you can hack f#@king anywhere! 
-_Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools_
+##Code Tools 
+__Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools__
 
-######Cool for sudden burst of inspiration, quick demos, storing code references, testing bits
+_Cool for sudden burst of inspiration, quick demos, storing code references, testing bits_
+
 - [jsBin](http://jsbin.com)
 - [jsFiddle](http://jsfiddle.com) ❤️
 - [codepen](https://Codepen.io)
 - [gist](http://gist.github.com) ❤️
 
+##Full Editors
 _And these are the big boys for serious shit when your out and about_
+
 - [Visual Studio Online]()
 - [Telerik Platform]() ❤️❤️❤️ *this Rocks! Let's me submit my apps to iTunesConnect even on a WINDOWS PC _Fuck Yeah!_*
 - [Code Anywhere]() this is pretty good, but seems a little buggy
 - [](http://www.blah.com/)
-_Markdown and just plain old writing shit_
+
+##Markdown and just plain old writing
 - [Markable](http://markable.in/) ❤️ *nice and easy to use, works even on my Windows Phone, and that is an achievement 🏆
 - [Dillenger.io](http://Dillinger.io) *nice, but no flash on phone. Copy/select is dodgy on iPad.*
 
