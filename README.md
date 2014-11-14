@@ -39,6 +39,9 @@ _And these are the big boys for serious shit when your out and about_
 
 #Javascript Resources.
 
+
+Click through to the [ JavaScript Extras](/big-ass-resource-list/JavaScript/javascript.md) page for a highly curated list of beginner to advance tutorials and learning resources. ❤️
+
 #### Libraries
 
 - [jQuery](http://jquery.com) - The de-facto library for the modern age. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
@@ -168,5 +171,4 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 
 
 --- 
-
 
