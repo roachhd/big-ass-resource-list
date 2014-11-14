@@ -1,5 +1,5 @@
 
-[Source](http://katieball.me/notepad/posts/2014-11-15-learn-Java-script.md "Permalink to Katie Ball's Javascript Learning Resource List")
+[Source](http://katieball.me/notepad/posts/2014-11-15-learn-Javascript-resources.md "Permalink to Katie Ball's Javascript Learning Resource List")
 
 # Javascript
 
