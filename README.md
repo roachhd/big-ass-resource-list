@@ -1,11 +1,13 @@
-A big ass list of resources about anything!
+A big ass list of resources!
 =====================
 This is an awesome this of the greatest resources on the web - it's bigger than your mamas arse 😉
 Fork it and add your bits.
 
-######Emoji code:
+######Emoji Key:
 
-❤ = my fave  |  🆓 = free  |  💰 = paid
+------------- | ------------- | ------------ |
+❤ = my fave   |   🆓 = free   |   💰 = paid. 
+------------- | ------------- | ------------ |
 
 #####Best code editors so you can hack f#@king anywhere! 
 _Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools_
@@ -28,7 +30,8 @@ _Markdown and just plain old writing shit_
 
 ---
 
-###Fonts
+##Design Resources
+
 #####Icon, Icon Fonts, Web Fonts
 - [Font Awesome](http://fontawesome) ❤️ you already know!
 - [Gylphicons]()
@@ -41,10 +44,7 @@ _Markdown and just plain old writing shit_
 - [Ico Moon](http://icomoon.com) *roll your own icon font*
 - [Minicons](http://www.webalys.com/minicons/index.php) 💰🆓 
 
-
----
-
-####Color:
+##Color:
 [Adobe Color](http://color.adobe.com) ❤️
 [Color Lovers](http://colorlovers.com)
 
@@ -56,10 +56,9 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 
 
 ---
-##Javascript Specific Resources.
+#Javascript Specific Resources.
 
-####Libraries
-
+##Libraries
 - [jQuery](http://jquery.com) - The de-facto library for the modern age. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 - [Backbone](http://backbonejs.org/) - Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
 - [AngularJS](http://angularjs.org/) - Conventions based MVC framework for HTML5 apps.
@@ -91,7 +90,7 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 
 ---
 
-######Game Stuff 
+#Game Stuff 
 - Games directory at http://roachhaus.com/games
 - Hypnotic at http://games.roachhaus.com/hypnotic
 - Pixel Shooter at http://games.roachhaus.com/8bitbang
@@ -99,7 +98,7 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 
 ---
 
-######My Tools - the ones above are better
+#My Tools - but use the stuff above 👆 they're prob better.
 - shrink pings [ting png](https://tinypng.com)
 - Playground at http://play.roachhaus.com
 - Bootstrapping themes and templates 
