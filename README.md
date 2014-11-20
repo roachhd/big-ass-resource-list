@@ -11,7 +11,7 @@ Fork it and add your bits.
 
 
 
-##Code Tools 
+##Code-Tools 
 __Brag, browse, build, demo, share, store test, create & collaborate with these code anywhere sick tools__
 
 _Cool for sudden burst of inspiration, quick demos, storing code references, testing bits_
@@ -21,7 +21,7 @@ _Cool for sudden burst of inspiration, quick demos, storing code references, tes
 - [codepen](https://Codepen.io)
 - [gist](http://gist.github.com) ❤️
 
-##Full Editors
+##Full-Editors
 _And these are the big boys for serious shit when your out and about_
 
 - [Visual Studio Online]()
@@ -74,7 +74,7 @@ Click through to the [ JavaScript Extras](/big-ass-resource-list/JavaScript/java
 
 ---
 
-#Ruby Resources - Gems
+#Ruby-Resources - Gems
 
 ## Gems
 - [Bundler](http://bundler.io/) - Bundler maintains a consistent environment for ruby applications. It tracks an application's code and the rubygems it needs to run, so that an application will always have the exact gems (and versions) that it needs to run.
@@ -89,11 +89,17 @@ Click through to the [ JavaScript Extras](/big-ass-resource-list/JavaScript/java
 - [Delayed::Job](https://github.com/collectiveidea/delayed_job) - Database based asynchronous priority queue system -- Extracted from Shopify
 - [Resque](https://github.com/resque/resque) - Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 
-## Tools and Services
+## Tools-and-Services
 - [Heroku](https://www.heroku.com/) - Hosting provider for Ruby, Node.js, Clojure, Java, Python and Scala
 - [Forward](https://forwardhq.com/) - Forward your localhost to a publicly-accessible url
 - [Mandrill](https://mandrillapp.com/) - Transactional email based on MailChimp infrastructure
 - [Jenkins](http://jenkins-ci.org/) - Open source continuous integration server
+- [travis ci free](https://travis-ci.org/) - continuous integration for open source 
+- [travis ci ](https://travis-ci.com/) - continueou integration for private repos
+- [Codeship](https://codeship.com/) - CODESHIP
+- [David-dm](https://david-dm.org/) 
+- [Version Badge](http://badge.fury.io) 
+- [Sheilds](http://shields.io/) - ❤️❤️
 
 
 ## Guides
@@ -171,4 +177,3 @@ If those sites look a bit overwhelming with the millions of pallets, then check 
 
 
 --- 
-
