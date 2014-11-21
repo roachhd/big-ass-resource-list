@@ -17,3 +17,12 @@ http://browsenpm.org/package.json
 - https://highlightjs.org/ ruby based 💎 
 - pygments - pyton 🐍 
 - prism.js - JavaScript 🍵 
+
+
+######Badges
+Codeship, versioneye, Travis, david, npm, shields, 
+
+
+
+######RSS stuffs
+http://www.rssboard.org/rss-autodiscovery
