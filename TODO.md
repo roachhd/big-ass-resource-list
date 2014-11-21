@@ -1,3 +1,7 @@
+
+ ![do I rock](http://img.shields.io/badge/do%20i%20rock-passing-ff69bd.svg) 
+
+
 Add quick check tools.
 
 jslint
@@ -26,3 +30,5 @@ Codeship, versioneye, Travis, david, npm, shields,
 
 ######RSS stuffs
 http://www.rssboard.org/rss-autodiscovery
+
+Validate your free, http://validator.w3.org/feed/
