@@ -10,3 +10,10 @@ Yaml lint Writing a great README
 💩 test, check, lint and learn with theses checks and interactive Demi's 💩
 
 http://browsenpm.org/package.json
+
+
+####Sexy code, for your blog, project page, docs etc
+
+- https://highlightjs.org/ ruby based 💎 
+- pygments - pyton 🐍 
+- prism.js - JavaScript 🍵 
