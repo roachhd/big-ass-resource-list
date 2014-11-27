@@ -33,6 +33,15 @@ Yaml lint Writing a great README
 - https://apidocs.mailchimp.com/
 - https://dojotoolkit.org/api/
 - http://www.census.gov/developers/
+- https://www.dropbox.com/developers
+- http://www.wunderground.com/weather/api/
+- http://www.npr.org/templates/apidoc/
+- https://developer.foursquare.com/
+- http://api.rubyonrails.org/
+- https://developer.uber.com/
+
+
+
 
 
 ---
