@@ -19,8 +19,15 @@ Yaml lint Writing a great README
 
 
 ---
+### API's
 
+- http://developer.nytimes.com/docs
+- http://nodejs.org/api/
+- https://disqus.com/api/docs/
+- https://developers.soundcloud.com/
+- https://developer.forecast.io/
 
+---
 ####Shit Hot Section 💩
 💩 test, check, lint and learn with theses checks and interactive Demi's 💩
 
