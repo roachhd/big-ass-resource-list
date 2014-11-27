@@ -26,6 +26,21 @@ Yaml lint Writing a great README
 - https://disqus.com/api/docs/
 - https://developers.soundcloud.com/
 - https://developer.forecast.io/
+- https://delicious.com/help/api
+- http://openweathermap.org/api
+- http://www.openoffice.org/api/
+- https://apidocs.mailchimp.com/
+- https://apidocs.mailchimp.com/
+- https://dojotoolkit.org/api/
+- http://www.census.gov/developers/
+
+
+---
+
+### Aussie Aussie Aussie
+
+
+
 
 ---
 ####Shit Hot Section 💩
