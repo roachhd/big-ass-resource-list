@@ -8,6 +8,17 @@ jslint
 
 Yaml lint Writing a great README
 
+### Creation Tools
+*Infographics*
+* http://www.easel.ly/
+* https://infogr.am/
+* https://piktochart.com/
+
+
+### Web slideshows
+
+
+---
 
 
 ####Shit Hot Section 💩
