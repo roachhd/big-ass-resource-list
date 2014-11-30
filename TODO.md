@@ -66,7 +66,11 @@ http://browsenpm.org/package.json
 
 
 ######Badges
-Codeship, versioneye, Travis, david, npm, shields, 
+Codeship, versioneye, Travis, david, npm, shields/fury,
+
+
+# Standards
+- http://semver.org/ 
 
 
 
