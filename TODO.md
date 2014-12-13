@@ -85,3 +85,16 @@ Validate your free, http://validator.w3.org/feed/
 ### Other
 - https://dojotoolkit.org/
 
+
+###### Extra junk
+- robots.txt 
+  - http://www.robotstxt.org/robotstxt.html
+  - http://www.google.com/support/webmasters/bin/answer.py?answer=35237
+  - http://www.botsvsbrowsers.com/
+  - http://www.robotstxt.org/db.html
+- IP look up
+  - http://network-tools.com/
+  - http://cqcounter.com/whois/
+  - http://www.projecthoneypot.org/search_ip.php
+
+
