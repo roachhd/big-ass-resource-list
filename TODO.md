@@ -4,9 +4,9 @@
 
 Add quick check tools.
 
-jslint
-
-Yaml lint Writing a great README
+- jslint
+- Yaml lint Writing a great README
+- css lint
 
 ### Creation Tools
 *Infographics*
@@ -103,3 +103,12 @@ Validate your free, http://validator.w3.org/feed/
 **Give me Badge**
 
 - https://codeclimate.com/github/
+
+
+
+**Minecraft**
+- http://signaturecraft.us 
+
+
+Online tools - fun sorta stuffs
+- http://signaturecraft.us avatars etc
