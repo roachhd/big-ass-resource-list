@@ -98,3 +98,8 @@ Validate your free, http://validator.w3.org/feed/
   - http://www.projecthoneypot.org/search_ip.php
 
 
+---
+
+**Give me Badge**
+
+- https://codeclimate.com/github/
