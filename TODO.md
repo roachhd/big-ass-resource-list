@@ -108,7 +108,9 @@ Validate your free, http://validator.w3.org/feed/
 
 **Minecraft**
 - http://signaturecraft.us 
+- http://textcraft.net
 
 
 Online tools - fun sorta stuffs
 - http://signaturecraft.us avatars etc
+- http://textcraft.net - fun logos, with transparency 
