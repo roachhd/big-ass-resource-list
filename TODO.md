@@ -2,11 +2,12 @@
  ![do I rock](http://img.shields.io/badge/do%20i%20rock-passing-ff69bd.svg) 
 
 
-Add quick check tools.
+Add quick check and conversion tools.
 
 - jslint
 - Yaml lint Writing a great README
 - css lint
+- http://sasstocss.appspot.com sass to css
 
 ### Creation Tools
 *Infographics*
