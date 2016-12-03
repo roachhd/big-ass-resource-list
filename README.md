@@ -67,7 +67,7 @@ Click through to the [ JavaScript Extras](/big-ass-resource-list/JavaScript/java
 - [Grunt](http://gruntjs.com/) - Javascript Task Runner
 
 ## Guides
-- [Jasmine](http://pivotal.github.io/jasmine/) - Jasmine is a behavior-driven development framework for testing JavaScript code.
+- [Jasmine](https://jasmine.github.io/) - Jasmine is a behavior-driven development framework for testing JavaScript code.
 - [Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted.html) - Extensions allow you to add functionality to Chrome without diving deeply into native code. You can create new extensions for Chrome with those core technologies that you're already familiar with from web development: HTML, CSS, and JavaScript.
 - [Backbone Tutorials](http://backbonetutorials.com/) - Backbone Tutorials is a collection of tutorials written by Thomas Davis.
 
